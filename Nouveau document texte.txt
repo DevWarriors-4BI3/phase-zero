@@ -1,0 +1,16 @@
+this is a class diagram it will show us the object and the attributes that we will 
+deal with throughout our project realisation.
+
+we have a user that can be a patient, doctor or administrator
+
+the doctor have many disponibilities
+
+a patient have a course witch is decomposed into many steps 
+
+then for any step we can have one or serval treatements.
+
+
+
+
+now we will see some system sequencies diagrams that will help us to show the interractions between
+different users and the system as an encapsulation of all the features.
